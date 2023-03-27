@@ -1,5 +1,8 @@
 # users-list
 
+## Task description
+https://github.com/sariweb/users-list/blob/master/users-list-task.pdf
+
 ## Project setup
 ```
 npm install
